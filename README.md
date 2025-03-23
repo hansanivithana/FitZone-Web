@@ -1,4 +1,6 @@
 FitZone Gym Web Application 
+
+PHP,Java Script,HTML,CSS
 **Key Features:**
 
 * **User Management:**
